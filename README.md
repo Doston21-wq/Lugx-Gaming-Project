@@ -1,6 +1,6 @@
 # Lugx Gaming 🎮
 
-![Lugx Gaming Logo]() <!-- Add your logo if available -->
+![Lugx Gaming Logo](./assets/images/logo.png) <!-- Add your logo if available -->
 
 Lugx Gaming is a modern platform designed for gaming enthusiasts, offering an exciting gaming experience and a user-friendly interface. This project allows gamers to explore, share, and connect with new friends.
 
